@@ -1,0 +1,60 @@
+
+.fade-enter-active {
+    transition: opacity .5s
+  }
+  
+  select{
+    width: 100%;
+    border-color: white;
+    background-color: white;
+  }
+  
+  .card {
+    margin-top: 3em;
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    background: white;
+    text-align: center;
+  }
+  
+  h2,
+  h3,
+  h4 {
+    text-align: left;
+    color: rgb(46, 46, 46);
+  }
+  
+  h5 {
+    text-align: right;
+  }
+  
+  .card-header{
+    left:0px;
+    margin-top: 0em;
+    margin-left: -1em;
+    margin-right: -1em;
+    background-color: #e9ecef;
+  }
+  
+  .card-footer{
+    left:0px;
+    height: 4em;
+    margin-bottom: 0em;
+    margin-left: -1em;
+    margin-right: -1em;
+    background-color: #e9ecef;
+  }
+  
+  label{
+    text-align: left;
+  }
+  
+  button{
+    background-color: #e9ecef;
+  }
+
+  .btn{
+    background-color: #e9ecef;
+  }
